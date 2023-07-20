@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/petopia/static/css/main.5fa84fea.css",
+    "main.js": "/petopia/static/js/main.9dab309b.js",
+    "static/js/787.e001f7ad.chunk.js": "/petopia/static/js/787.e001f7ad.chunk.js",
+    "static/media/dog1 1.png": "/petopia/static/media/dog1 1.897570acbd4a83f3b38d.png",
+    "static/media/Img (3).png": "/petopia/static/media/Img (3).13d0fd102f49e354a015.png",
+    "static/media/Img (5).png": "/petopia/static/media/Img (5).2661a0bb61902bb89641.png",
+    "static/media/Img (4).png": "/petopia/static/media/Img (4).80990505033e2c94ea4a.png",
+    "static/media/pet-accessories-still-life-concept-with-chew-ball.png": "/petopia/static/media/pet-accessories-still-life-concept-with-chew-ball.99279c3f506f7adfa9ab.png",
+    "static/media/Img.png": "/petopia/static/media/Img.f0d2391407b1796780de.png",
+    "static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (8).png": "/petopia/static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (8).8516cd4c88a9b382afee.png",
+    "static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (2).png": "/petopia/static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (2).65db8c46d61452677017.png",
+    "static/media/Img (1).png": "/petopia/static/media/Img (1).0ffd8749181c26358461.png",
+    "static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (7).png": "/petopia/static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (7).fb9b735c417c60bcc3ed.png",
+    "static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc.png": "/petopia/static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc.ab531881e038f9db5c6e.png",
+    "static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (1).png": "/petopia/static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (1).85f23773693aa982bc94.png",
+    "static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (4).png": "/petopia/static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (4).c6106150c95906700a40.png",
+    "static/media/Img (2).png": "/petopia/static/media/Img (2).7b6a3f5437cae29866ec.png",
+    "static/media/charles-deluvio-Mv9hjnEUHR4-unsplash (1).png": "/petopia/static/media/charles-deluvio-Mv9hjnEUHR4-unsplash (1).af161eedd28d0802987c.png",
+    "static/media/bg (2).png": "/petopia/static/media/bg (2).ceed93b936b6ec39c9e3.png",
+    "static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (5).png": "/petopia/static/media/pink-pet-bowl-isolated-on-white-background-2021-09-03-05-40-42-utc (5).2cddcc40c4b29c4846b2.png",
+    "static/media/pet-dressed-necktie-2021-08-27-22-18-47-utc (1).png": "/petopia/static/media/pet-dressed-necktie-2021-08-27-22-18-47-utc (1).d07d461018383d8e5d24.png",
+    "index.html": "/petopia/index.html",
+    "main.5fa84fea.css.map": "/petopia/static/css/main.5fa84fea.css.map",
+    "main.9dab309b.js.map": "/petopia/static/js/main.9dab309b.js.map",
+    "787.e001f7ad.chunk.js.map": "/petopia/static/js/787.e001f7ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fa84fea.css",
+    "static/js/main.9dab309b.js"
+  ]
+}
