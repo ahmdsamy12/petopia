@@ -1,0 +1,113 @@
+.footer {
+    background-color: #F8F8F8;
+    padding: 20px;
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 10px;
+    padding: 0;
+}
+
+.footer-box {
+    
+    text-align: left;
+}
+
+.footer-box > h3 {
+    color: var(--main-color);
+    font-size: 24px;
+    font-family: var(--main-font);
+    font-weight: 800;
+}
+
+.footer-box  .phone {
+    padding-left: 10px;
+    color: var(--text-color);
+    font-family: var(--main-font);
+    font-weight: 800;
+}
+
+.footer-box  svg {
+    color: var(--main-color);
+    font-size: 30px;
+}
+
+.footer-box > p {
+    font-size: 16px;
+    font-family: var(--second-font);
+    color: var(--text-color);
+    padding: 10px;
+}
+
+.footer-box .work {
+    padding-left: 40px;
+    font-weight: 700;
+    font-family: var(--main-font);
+}
+
+.footer-box .use {
+    position: relative;
+    padding-right: 20px;
+    text-align: left;
+}
+
+.footer-box .use::before {
+    content: "";
+    left: 0;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #FFBBDD;
+    position: absolute;
+}
+
+.footer-box .use1 {
+    position: relative;
+    margin-left: 30px;
+}
+
+.footer-box .use1::before {
+    content: "";
+    left: -10px;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #FFBBDD;
+    position: absolute;
+}
+
+.footer-box > form > input {
+    width: 60%;
+    padding: 10px;
+    outline: none;
+    border-radius: 10px;
+    margin-right: 5px;
+    border: 1px solid #fff;
+}
+
+
+.footer-box > form > button {
+    padding: 5px;
+    outline: none;
+    border-radius: 10px;
+    margin-right: 5px;
+    border: 1px solid #fff;
+    background-color: var(--main-color);
+    color: #fff;
+}
+
+.footer-box > form > button > svg {
+    color: #fff;
+} 
+
+.footer-box .footer-social > svg {
+    fill: var(--main-color);
+    margin-left: 20px;
+    margin-top: 15px;
+}

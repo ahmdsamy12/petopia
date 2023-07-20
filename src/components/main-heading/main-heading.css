@@ -1,0 +1,16 @@
+.main-heading {
+    text-align: center;
+    margin: 25px 0;
+}
+.main-heading > p {
+font-family: var(--main-font);
+font-weight: 700;
+color: var(--main-color);
+margin: 0;
+}
+
+.main-heading > h3 {
+font-family: var(--main-font);
+font-weight: 800;
+color: var(--text-color);
+}

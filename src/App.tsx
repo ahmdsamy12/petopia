@@ -1,24 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Blog from "./components/blog/Blog";
+import Contacts from "./components/contacts/Contacts";
+import Footer from "./components/footer/Footer";
+import MainHeader from "./components/main-header/MainHeader";
+import Otheri from "./components/other-posts/Other";
+import ServicesOne from "./components/services/services-part1/ServicesOne";
+import ServicesTwo from "./components/services/services-part2/ServicesTwo";
+import SocialHeader from "./components/social-header/SocialHeader";
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <SocialHeader />
+     <MainHeader />
+     <ServicesOne />
+     <ServicesTwo />
+     <Blog />
+     <Contacts />
+     <Otheri />
+     <Footer />
     </div>
   );
 }

@@ -1,0 +1,58 @@
+.other-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.other-box {
+    position: relative;
+}
+
+.other-box::after {
+    content: "TRAINING";
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    top: -15px;
+    right: 10%;
+    background-color: #FFDA47;
+    text-align: center;
+    font-family: var(--main-font);
+    font-weight: 700;
+    color: var(--text-color);
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
+.other-box > img {
+    width: 100%;
+}
+
+.other-box > span {
+    margin: 10px 10px 10px 0;
+    display: inline-block;
+}
+
+.other-box > span > svg {
+    color: var(--main-color);
+}
+
+.other-box > span  {
+    color: var(--text-color);
+    font-family: var(--second-font);
+    font-weight: 400;
+}
+
+.other-box > h3 {
+    font-size: 24px;
+    font-family: var(--main-font);
+    font-weight: 700;
+    color: var(--text-color);
+}
+
+.other-box > p {
+    font-size: 18px;
+    font-family: var(--second-font);
+    font-weight: 400;
+    color: var(--pargraph-color);
+}

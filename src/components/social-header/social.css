@@ -1,0 +1,54 @@
+.social-head {
+    height: 42px;
+    background-color: var(--main-color);
+}
+
+.social-head > .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.social-icons .icons {
+    display: flex;
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+}
+
+.icons a > svg {
+    fill: #fff;
+}
+
+.social-contact > a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+@media (max-width: 767px) {
+    .social-contact > a {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 767px) {
+    .icons a > svg {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 299px) {
+    .social-contact > a {
+        font-size: 8px;
+
+    }
+    .icons a > svg {
+        font-size: 9px;
+    }
+}
+
+

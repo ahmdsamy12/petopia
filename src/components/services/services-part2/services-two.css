@@ -1,0 +1,36 @@
+.inner-content {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+   gap: 20px;
+}
+
+.inner-box > h2 {
+    font-family: var(--main-font);
+    font-weight: 800;
+    color: var(--text-color);
+    
+}
+
+.box-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px
+}
+
+.box-type > h3 {
+    font-size: 19px;
+    font-family: var(--main-font);
+    color: var(--text-color);
+    font-weight: 700;
+}
+
+.box-font > svg {
+    color: gold;
+}
+
+.box-type > span {
+    color: var(--main-color);
+    font-family: var(--second-font);
+    font-weight: 400;
+}
